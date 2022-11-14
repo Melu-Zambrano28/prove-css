@@ -1,3 +1,4 @@
+import 'modern-normalize'
 import '../styles/globals.css'
 import type { AppProps } from 'next/app'
 
